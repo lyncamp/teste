@@ -1,1 +1,2 @@
-Conteúdo inicial do arquivo1 (commit 1)
+Conteï¿½do inicial do arquivo1 (commit 1)
+asdsa
